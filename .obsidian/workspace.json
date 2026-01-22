@@ -12,12 +12,14 @@
             "id": "d7d9f2679e53cb5a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "推特帖子/总结复盘展望/assets/Generate_a_chinese_202601211957.jpeg"
+                "file": "推特帖子/观点/2026一月/便宜就是贵，贵就是便宜.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Generate_a_chinese_202601211957"
+              "icon": "lucide-file",
+              "title": "便宜就是贵，贵就是便宜"
             }
           }
         ]
@@ -219,6 +221,8 @@
   },
   "active": "d7d9f2679e53cb5a",
   "lastOpenFiles": [
+    "推特帖子/总结复盘展望/assets/Generate_a_chinese_202601211957.jpeg",
+    "推特帖子/观点/2026一月/便宜就是贵，贵就是便宜.md",
     "推特帖子/总结复盘展望/2026展望长篇.md",
     "推特帖子/总结复盘展望/1000fo复盘.md",
     "obsidian",
@@ -231,7 +235,6 @@
     "推特帖子/总结复盘展望/assets/Generating_images_in_202601212011.jpeg",
     "推特帖子/总结复盘展望/assets/Hongkong_202601212009.jpeg",
     "推特帖子/总结复盘展望/assets/Generate_a_chinese_202601211957 (1).jpeg",
-    "推特帖子/总结复盘展望/assets/Generate_a_chinese_202601211957.jpeg",
     "推特帖子/总结复盘展望/assets/Generating_a_chinese_202601211956.jpeg",
     "推特帖子/总结复盘展望/assets",
     "2026人生战略计划.canvas",
@@ -266,7 +269,6 @@
     "推特帖子/故事分享/1K咨询.md",
     "推特帖子/观点/2026一月/广告背后都是商机.md",
     "推特帖子/工具分享/通义听悟.md",
-    "推特帖子/观点/2026一月/AI和自媒体的具体的“路”.md",
     "未命名 1.canvas"
   ]
 }
