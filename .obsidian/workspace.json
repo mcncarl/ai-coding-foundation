@@ -12,14 +12,12 @@
             "id": "d7d9f2679e53cb5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "推特帖子/总结复盘展望/2026展望长篇.md",
-                "mode": "source",
-                "source": false
+                "file": "推特帖子/总结复盘展望/assets/Generate_a_chinese_202601211957.jpeg"
               },
-              "icon": "lucide-file",
-              "title": "2026展望长篇"
+              "icon": "lucide-image",
+              "title": "Generate_a_chinese_202601211957"
             }
           }
         ]
@@ -215,14 +213,16 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "claudian:Open Claudian": false
+      "claudian:Open Claudian": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19ba4bd7c711404d",
+  "active": "d7d9f2679e53cb5a",
   "lastOpenFiles": [
+    "推特帖子/总结复盘展望/2026展望长篇.md",
+    "推特帖子/总结复盘展望/1000fo复盘.md",
     "obsidian",
     "推特帖子/总结复盘展望/2026展望精华版.md",
-    "推特帖子/总结复盘展望/2026展望长篇.md",
     "推特帖子/总结复盘展望/assets/Generate_a_chinese_202601212058.jpeg",
     "推特帖子/总结复盘展望/assets/Generate_an_image_202601212048.jpeg",
     "推特帖子/总结复盘展望/assets/Generating_an_image_202601212045.jpeg",
@@ -240,7 +240,6 @@
     "推特运营策略思维导图.canvas",
     "推特帖子/总结复盘展望/复盘2025经历.md",
     "推特帖子/总结复盘展望/个人知识库项目失败.md",
-    "推特帖子/总结复盘展望/1000fo复盘.md",
     "推特帖子/观点/2026一月/2026的四个小红书商机.md",
     "选题库/工具分享/谷歌实验室.md",
     "推特帖子/工具分享/谷歌实验室/Stitch.md",
@@ -259,7 +258,6 @@
     "选题库/方法经验",
     "选题库/观点",
     "选题库/读书笔记",
-    "推特帖子/读书笔记",
     "选题库/未命名.md",
     "推特帖子/观点/2026一月/文科生和小白入门AI，十条极其反常识的心法.md",
     "推特帖子/观点/2026一月/人脉的含义.md",
