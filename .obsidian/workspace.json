@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "83628030e4f744fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f262f69348dff753",
+        "type": "tabs",
+        "dimension": 65.50546448087432,
+        "children": [
+          {
+            "id": "d7d9f2679e53cb5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "推特帖子/总结复盘展望/2026展望长篇.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026展望长篇"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ee4aff06dd53c123",
+        "type": "tabs",
+        "dimension": 34.494535519125684,
+        "children": [
+          {
+            "id": "19ba4bd7c711404d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "推特帖子/总结复盘展望/1000fo复盘.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1000fo复盘"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8ef46025d2d1a23",
+    "type": "split",
+    "children": [
+      {
+        "id": "5de6e5f6c79608e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d3eade962047d99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "5095e12d50562198",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f80ee33761a18334",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "aa93703f3cf36c35",
+    "type": "split",
+    "children": [
+      {
+        "id": "31a90a239881aa1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "942f4e139b6af5c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "推特帖子/总结复盘展望/2026展望精华版.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2026展望精华版 的反向链接列表"
+            }
+          },
+          {
+            "id": "56e33a29c2922528",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "推特帖子/总结复盘展望/2026展望精华版.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "2026展望精华版 的出链列表"
+            }
+          },
+          {
+            "id": "aa5aa84a7a0527a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0a997441fe07d194",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "2b0a4fe7dfda7100",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-01-06.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2026-01-06 的大纲"
+            }
+          },
+          {
+            "id": "17bdd1492e373e6e",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "claudian-view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "claudian:Open Claudian": false
+    }
+  },
+  "active": "19ba4bd7c711404d",
+  "lastOpenFiles": [
+    "obsidian",
+    "推特帖子/总结复盘展望/2026展望精华版.md",
+    "推特帖子/总结复盘展望/2026展望长篇.md",
+    "推特帖子/总结复盘展望/assets/Generate_a_chinese_202601212058.jpeg",
+    "推特帖子/总结复盘展望/assets/Generate_an_image_202601212048.jpeg",
+    "推特帖子/总结复盘展望/assets/Generating_an_image_202601212045.jpeg",
+    "推特帖子/总结复盘展望/assets/Image_generated_in_202601212045.jpeg",
+    "推特帖子/总结复盘展望/assets/Generate_an_image_202601212015.jpeg",
+    "推特帖子/总结复盘展望/assets/Generating_images_in_202601212011.jpeg",
+    "推特帖子/总结复盘展望/assets/Hongkong_202601212009.jpeg",
+    "推特帖子/总结复盘展望/assets/Generate_a_chinese_202601211957 (1).jpeg",
+    "推特帖子/总结复盘展望/assets/Generate_a_chinese_202601211957.jpeg",
+    "推特帖子/总结复盘展望/assets/Generating_a_chinese_202601211956.jpeg",
+    "推特帖子/总结复盘展望/assets",
+    "2026人生战略计划.canvas",
+    "操作路径.canvas",
+    "推特账号分析.md",
+    "推特运营策略思维导图.canvas",
+    "推特帖子/总结复盘展望/复盘2025经历.md",
+    "推特帖子/总结复盘展望/个人知识库项目失败.md",
+    "推特帖子/总结复盘展望/1000fo复盘.md",
+    "推特帖子/观点/2026一月/2026的四个小红书商机.md",
+    "选题库/工具分享/谷歌实验室.md",
+    "推特帖子/工具分享/谷歌实验室/Stitch.md",
+    "推特帖子/工具分享/谷歌实验室/Mixboard.md",
+    "推特帖子/工具分享/谷歌实验室/assets",
+    "推特帖子/工具分享/谷歌实验室",
+    "推特帖子/观点/2026一月/学会做减法.md",
+    "推特帖子/观点/2026一月/B端老板的钱很好赚.md",
+    "推特帖子/观点/2026一月/独有数据.md",
+    "推特帖子/观点/2026一月",
+    "推特帖子/观点/2026一月/做IP的意义和可执行步骤.md",
+    "推特帖子/观点/2026一月/学英语的好处.md",
+    "人生知识库/爆火的AI名词概念/Agent Skills、MCP、Subagent/Agent Skills、MCP、Subagent.md",
+    "未命名",
+    "选题库/总结复盘展望",
+    "选题库/方法经验",
+    "选题库/观点",
+    "选题库/读书笔记",
+    "推特帖子/读书笔记",
+    "选题库/未命名.md",
+    "推特帖子/观点/2026一月/文科生和小白入门AI，十条极其反常识的心法.md",
+    "推特帖子/观点/2026一月/人脉的含义.md",
+    "推特帖子/观点/2026一月/普通人追AI热点的正确打开方式.md",
+    "推特帖子/方法经验/Grok日报升级版.md",
+    "推特帖子/故事分享/1K咨询.md",
+    "推特帖子/观点/2026一月/广告背后都是商机.md",
+    "推特帖子/工具分享/通义听悟.md",
+    "推特帖子/观点/2026一月/AI和自媒体的具体的“路”.md",
+    "未命名 1.canvas"
+  ]
+}

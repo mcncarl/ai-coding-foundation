@@ -1,0 +1,66 @@
+{
+  "userName": "逸尘大人",
+  "enableBlocklist": true,
+  "blockedCommands": {
+    "unix": [
+      "rm -rf",
+      "chmod 777",
+      "chmod -R 777"
+    ],
+    "windows": [
+      "del /s /q",
+      "rd /s /q",
+      "rmdir /s /q",
+      "format",
+      "diskpart",
+      "Remove-Item -Recurse -Force",
+      "Remove-Item -Force -Recurse",
+      "Remove-Item -r -fo",
+      "Remove-Item -fo -r",
+      "Remove-Item -Recurse",
+      "Remove-Item -r",
+      "ri -Recurse",
+      "ri -r",
+      "ri -Force",
+      "ri -fo",
+      "rm -r -fo",
+      "rm -Recurse",
+      "rm -Force",
+      "del -Recurse",
+      "del -Force",
+      "erase -Recurse",
+      "erase -Force",
+      "rd -Recurse",
+      "rmdir -Recurse",
+      "Format-Volume",
+      "Clear-Disk",
+      "Initialize-Disk",
+      "Remove-Partition"
+    ]
+  },
+  "showToolUse": true,
+  "toolCallExpandedByDefault": false,
+  "model": "glm-4.7",
+  "enableAutoTitleGeneration": true,
+  "titleGenerationModel": "glm-4.7",
+  "thinkingBudget": "off",
+  "permissionMode": "yolo",
+  "lastNonPlanPermissionMode": "yolo",
+  "permissions": [],
+  "excludedTags": [],
+  "mediaFolder": "",
+  "environmentVariables": "ANTHROPIC_API_KEY=f4c3b302d4d14e5b9cd9f53ad349efce.zUURp41TA6E2fORQ\nANTHROPIC_BASE_URL=https://open.bigmodel.cn/api/anthropic\nANTHROPIC_MODEL=glm-4.7",
+  "envSnippets": [],
+  "systemPrompt": "所有回答都是用简体中文",
+  "allowedExportPaths": [
+    "~/Desktop",
+    "~/Downloads"
+  ],
+  "allowedContextPaths": [],
+  "keyboardNavigation": {
+    "scrollUpKey": "w",
+    "scrollDownKey": "s",
+    "focusInputKey": "i"
+  },
+  "claudeCliPath": ""
+}
