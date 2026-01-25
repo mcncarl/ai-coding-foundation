@@ -43,7 +43,7 @@
   "model": "glm-4.7",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "glm-4.7",
-  "thinkingBudget": "medium",
+  "thinkingBudget": "high",
   "permissionMode": "yolo",
   "lastNonPlanPermissionMode": "yolo",
   "permissions": [],
