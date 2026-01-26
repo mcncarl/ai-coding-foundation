@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5,
-    "collapsed": true
+    "width": 402.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7d9f2679e53cb5a",
+  "active": "17bdd1492e373e6e",
   "lastOpenFiles": [
     "人生知识库/爆火的AI名词概念/Agent Skills、MCP、Subagent/Agent Skills、MCP、Subagent.md",
     "推特帖子/观点/2026一月/未命名.md",
