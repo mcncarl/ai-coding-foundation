@@ -7,5 +7,6 @@
   "readableLineLength": true,
   "useTab": false,
   "autoConvertHtml": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "promptDelete": false
 }
