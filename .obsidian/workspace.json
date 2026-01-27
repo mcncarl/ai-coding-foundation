@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "选题库/工具分享/工具分享.md",
+                "file": "推特帖子/总结复盘展望/2026展望长篇.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "工具分享"
+              "title": "2026展望长篇"
             }
           }
         ]
@@ -181,8 +181,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -208,6 +208,23 @@
   },
   "active": "d7d9f2679e53cb5a",
   "lastOpenFiles": [
+    "推特帖子/总结复盘展望/复盘2025经历.md",
+    "推特帖子/总结复盘展望/个人知识库项目失败.md",
+    "推特帖子/总结复盘展望/assets/Image_generated_in_202601212045.jpeg",
+    "推特帖子/总结复盘展望/assets/Hongkong_202601212009.jpeg",
+    "推特帖子/总结复盘展望/assets/Generating_images_in_202601212011.jpeg",
+    "推特帖子/总结复盘展望/assets/Generating_an_image_202601212045.jpeg",
+    "推特帖子/总结复盘展望/assets/Generating_a_chinese_202601211956.jpeg",
+    "推特帖子/总结复盘展望/assets/Generate_an_image_202601212048.jpeg",
+    "推特帖子/总结复盘展望/assets/Generate_an_image_202601212015.jpeg",
+    "推特帖子/总结复盘展望/assets/Generate_a_chinese_202601212058.jpeg",
+    "推特帖子/总结复盘展望/assets/Generate_a_chinese_202601211957 (1).jpeg",
+    "推特帖子/总结复盘展望/2026展望长篇.md",
+    "2026具体操作路径.canvas",
+    "2026人生战略计划.canvas",
+    "推特运营策略思维导图.canvas",
+    "推特账号分析.md",
+    "选题库/工具分享/工具分享.md",
     "推特帖子/观点/2026一月/先吃饱饭,再谈道.md",
     "人生知识库/爆火的AI名词概念/Agent Skills、MCP、Subagent/Agent Skills、MCP、Subagent.md",
     "推特帖子/观点/2026一月/成年人做事先谈钱.md",
@@ -228,29 +245,12 @@
     "推特帖子/观点/2026一月/贵就是便宜，便宜就是贵/Generate_a_beautifully_202601222150.jpeg",
     "推特帖子/观点/2026一月/2026的四个小红书商机.md",
     "推特帖子/观点/2026一月/传统行业老板转型得多认识00后.md",
-    "推特账号分析.md",
-    "推特运营策略思维导图.canvas",
-    "2026人生战略计划.canvas",
-    "2026具体操作路径.canvas",
     "推特帖子/观点/2026一月/贵就是便宜，便宜就是贵",
     "推特帖子/观点/2026一月/贵就是便宜，便宜就是贵/assets",
-    "推特帖子/总结复盘展望/assets/Generate_a_chinese_202601211957.jpeg",
-    "推特帖子/总结复盘展望/2026展望长篇.md",
     "推特帖子/总结复盘展望/1000fo复盘.md",
     "obsidian",
     "推特帖子/总结复盘展望/2026展望精华版.md",
-    "推特帖子/总结复盘展望/assets/Generate_a_chinese_202601212058.jpeg",
-    "推特帖子/总结复盘展望/assets/Generate_an_image_202601212048.jpeg",
-    "推特帖子/总结复盘展望/assets/Generating_an_image_202601212045.jpeg",
-    "推特帖子/总结复盘展望/assets/Image_generated_in_202601212045.jpeg",
-    "推特帖子/总结复盘展望/assets/Generate_an_image_202601212015.jpeg",
-    "推特帖子/总结复盘展望/assets/Generating_images_in_202601212011.jpeg",
-    "推特帖子/总结复盘展望/assets/Hongkong_202601212009.jpeg",
-    "推特帖子/总结复盘展望/assets/Generate_a_chinese_202601211957 (1).jpeg",
     "推特帖子/总结复盘展望/assets",
-    "推特帖子/总结复盘展望/复盘2025经历.md",
-    "推特帖子/总结复盘展望/个人知识库项目失败.md",
-    "选题库/工具分享/工具分享.md",
     "推特帖子/工具分享/谷歌实验室/assets",
     "推特帖子/工具分享/谷歌实验室",
     "推特帖子/观点/2026一月",
