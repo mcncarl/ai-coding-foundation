@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "推特帖子/工具分享/产品推广/未命名 1.md",
+                "file": "推特帖子/工具分享/产品推广/GamsGo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 1"
+              "title": "GamsGo"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"Claude Code对话精华内容/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -231,11 +232,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b4c8a5fbceda454",
+  "active": "5095e12d50562198",
   "lastOpenFiles": [
+    "Claude Code对话精华内容",
+    "推特帖子/工具分享/产品推广/未命名 1.md",
+    "未命名",
     "推特帖子/工具分享/产品推广/GamsGo.md",
     "推特帖子/工具分享/产品推广/assets/GamsGo",
-    "推特帖子/工具分享/产品推广/未命名 1.md",
     "推特账号分析.md",
     "推特帖子/工具分享/产品推广/assets/GamsGo/file-20260201132051207.png",
     "推特帖子/工具分享/产品推广/assets/GamsGo/file-20260201132051220.png",
@@ -276,7 +279,6 @@
     "推特帖子/工具分享/AI设计类工具/stitch和pencil.md",
     "推特帖子/工具分享/AI设计类工具/assets/stitch和pencil/file-20260127114015834.png",
     "推特帖子/工具分享/AI设计类工具/assets/stitch和pencil/file-20260127113934689.png",
-    "推特帖子/工具分享/AI设计类工具/assets/stitch和pencil",
     "推特帖子/工具分享/谷歌实验室/Stitch.md",
     "推特帖子/总结复盘展望/assets/Generate_a_chinese_202601211957.jpeg",
     "推特帖子/总结复盘展望/assets/Hongkong_202601212009.jpeg",
