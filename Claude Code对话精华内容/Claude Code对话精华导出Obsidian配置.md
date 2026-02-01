@@ -1,13 +1,3 @@
----
-tags:
-  - 对话精华
-  - auto-generated
-date: 2025-02-01
-created_by: Claude Code
-project: Claude Code CLI
----
-
-# Claude Code 对话精华导出 Obsidian 配置
 
 ## 背景
 用户希望将 Claude Code CLI 的对话精华内容自动保存到 Obsidian 笔记库中，每个对话生成一个新的 Markdown 文档。

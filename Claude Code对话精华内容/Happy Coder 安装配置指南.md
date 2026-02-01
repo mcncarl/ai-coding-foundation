@@ -1,11 +1,3 @@
----
-tags: [对话精华, auto-generated, Happy-Coder, Claude-Code, 工具配置]
-date: 2026-01-28
-created_by: Claude Code
-project: D:\ (工具安装)
----
-
-# Happy Coder 安装配置指南
 
 ## 背景
 
