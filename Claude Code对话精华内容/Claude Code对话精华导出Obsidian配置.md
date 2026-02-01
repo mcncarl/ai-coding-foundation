@@ -1,5 +1,7 @@
 ---
-tags: [对话精华, auto-generated]
+tags:
+  - 对话精华
+  - auto-generated
 date: 2025-02-01
 created_by: Claude Code
 project: Claude Code CLI
