@@ -11,14 +11,17 @@
             "id": "d7d9f2679e53cb5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Claude Code对话精华内容/Obsidian MCP 插件错误排查与 IDE 连接问题.md",
-                "mode": "source",
-                "source": false
+                "file": "2026具体操作路径.canvas",
+                "viewState": {
+                  "x": -865,
+                  "y": -300,
+                  "zoom": -1.3210766961958547
+                }
               },
-              "icon": "lucide-file",
-              "title": "Obsidian MCP 插件错误排查与 IDE 连接问题"
+              "icon": "lucide-layout-dashboard",
+              "title": "2026具体操作路径"
             }
           }
         ]
@@ -219,14 +222,16 @@
   },
   "active": "d7d9f2679e53cb5a",
   "lastOpenFiles": [
-    "Claude Code对话精华内容/Moltbook 是什么.md",
-    "Claude Code对话精华内容/Claude Code对话精华导出Obsidian配置.md",
+    "2026人生战略计划.canvas",
+    "2026具体操作路径.canvas",
     "Claude Code对话精华内容/Obsidian MCP 插件错误排查与 IDE 连接问题.md",
+    "Claude Code对话精华内容/Moltbook 是什么.md",
+    "Claude Code对话精华内容/Happy Coder 安装配置指南.md",
+    "Claude Code对话精华内容/Claude Code对话精华导出Obsidian配置.md",
     "阿逸的精华内容输出/示例笔记.md",
     "阿逸的精华内容输出",
     "测试文件夹/测试笔记.md",
     "测试文件夹",
-    "Claude Code对话精华内容/Happy Coder 安装配置指南.md",
     "Claude Code对话精华内容/X Article Publisher - Windows环境配置与使用.md",
     "Claude Code对话精华内容/新格式测试.md",
     "Claude Code对话精华内容/表格测试.md",
@@ -257,12 +262,9 @@
     "推特帖子/观点/2026一月/围城.md",
     "推特帖子/观点/2026一月/传统行业老板转型得多认识00后.md",
     "推特帖子/观点/2026一月/成年人做事先谈钱.md",
-    "推特帖子/观点/2026一月/2026的四个小红书商机.md",
     "推特帖子/观点/2026一月/assets/Learn in Public 和 Build in Public/file-20260130201730671.png",
     "推特帖子/总结复盘展望/assets/年轻，就要All in每一年的高光 2026战略展望/file-20260130194241730.png",
-    "2026人生战略计划.canvas",
     "推特运营策略思维导图.canvas",
-    "2026具体操作路径.canvas",
     "推特帖子/工具分享/AI设计类工具/assets/stitch和pencil/file-20260127114015834.png",
     "推特帖子/工具分享/AI设计类工具/assets/stitch和pencil/file-20260127113934689.png",
     "推特帖子/总结复盘展望/assets/Generate_a_chinese_202601211957.jpeg",
