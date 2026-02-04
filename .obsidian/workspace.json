@@ -11,17 +11,14 @@
             "id": "d7d9f2679e53cb5a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "2026具体操作路径.canvas",
-                "viewState": {
-                  "x": -865,
-                  "y": -300,
-                  "zoom": -1.3210766961958547
-                }
+                "file": "Claude Code对话精华内容/MCP-Skills-Subagent对比.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "2026具体操作路径"
+              "icon": "lucide-file",
+              "title": "MCP-Skills-Subagent对比"
             }
           }
         ]
@@ -207,7 +204,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "claude-code-mcp:Toggle Claude Terminal": false,
       "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -222,12 +218,13 @@
   },
   "active": "d7d9f2679e53cb5a",
   "lastOpenFiles": [
-    "2026人生战略计划.canvas",
-    "2026具体操作路径.canvas",
     "Claude Code对话精华内容/Obsidian MCP 插件错误排查与 IDE 连接问题.md",
     "Claude Code对话精华内容/Moltbook 是什么.md",
-    "Claude Code对话精华内容/Happy Coder 安装配置指南.md",
     "Claude Code对话精华内容/Claude Code对话精华导出Obsidian配置.md",
+    "Claude Code对话精华内容/MCP-Skills-Subagent对比.md",
+    "Claude Code对话精华内容/Happy Coder 安装配置指南.md",
+    "2026具体操作路径.canvas",
+    "2026人生战略计划.canvas",
     "阿逸的精华内容输出/示例笔记.md",
     "阿逸的精华内容输出",
     "测试文件夹/测试笔记.md",

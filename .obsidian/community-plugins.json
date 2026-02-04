@@ -3,8 +3,5 @@
   "claudian",
   "obsidian-git",
   "obsidian-custom-attachment-location",
-  "obsidian-local-rest-api",
-  "obsidian-http-mcp",
-  "obsidian-claude-code-mcp",
-  "claude-code-mcp"
+  "obsidian-local-rest-api"
 ]
