@@ -118,7 +118,7 @@ bun scripts/worker-service.cjs run
 **原因**：
 - claude-mem 只记录从插件启用后的对话
 - 不会回溯扫描历史 transcript 文件
-- 历史对话（69个会话，2.3MB）继续用 `/resume` 查看
+- 历史对话继续用 `/resume` 查看
 
 **解决方案**：
 | 需求 | 工具 | 方法 |
