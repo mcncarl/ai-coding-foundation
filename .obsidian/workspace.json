@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e70a87b135bc6585",
+        "id": "7c6fab612ef90c1b",
         "type": "tabs",
         "children": [
           {
-            "id": "10629834f9817141",
+            "id": "51b311a073bfb3bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -217,10 +217,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10629834f9817141",
+  "active": "51b311a073bfb3bb",
   "lastOpenFiles": [
+    "推特帖子/总结复盘展望/assets/年轻，就要All in每一年的高光 2026战略展望/Generate_a_chinese_202601211957 (1).jpeg",
     "assets/2026展望长篇/屏幕截图.md",
     "推特帖子/总结复盘展望/年轻，就要All in每一年的高光 2026战略展望.md",
+    "assets/2026展望长篇/Generate_a_chinese_202601211957.md",
+    "推特帖子/总结复盘展望/assets/年轻，就要All in每一年的高光 2026战略展望/屏幕截图 2026-01-21 193003.png",
     "assets/2026展望长篇",
     "assets",
     "人生知识库/爆火的AI名词概念/Happy Coder 安装配置指南.md",
@@ -250,7 +253,6 @@
     "推特帖子/工具分享/产品推广/未命名 1.base",
     "推特帖子/工具分享/产品推广/未命名.base",
     "商单推广/assets/GamsGo第二弹/file-20260204150630014.png",
-    "商单推广/assets/GamsGo第二弹/file-20260204150621463.png",
     "商单推广/assets/GamsGo第二弹",
     "2026具体操作路径.canvas",
     "2026人生战略计划.canvas",
@@ -265,8 +267,6 @@
     "推特帖子/工具分享/产品推广/未命名 1.md",
     "推特账号分析.md",
     "推特帖子/工具分享/kimi/kimi2.5集群做kpop视频.md",
-    "推特帖子/未命名.md",
-    "推特帖子/观点/2026一月/Learn in Public 和 Build in Public.md",
     "推特运营策略思维导图.canvas",
     "未命名 1.canvas"
   ]
