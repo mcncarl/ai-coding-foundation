@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f262f69348dff753",
+        "id": "e70a87b135bc6585",
         "type": "tabs",
         "children": [
           {
-            "id": "d7d9f2679e53cb5a",
+            "id": "10629834f9817141",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "商单推广/ZenMux.md",
+                "file": "推特帖子/总结复盘展望/年轻，就要All in每一年的高光 2026战略展望.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ZenMux"
+              "title": "年轻，就要All in每一年的高光 2026战略展望"
             }
           }
         ]
@@ -217,8 +217,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7d9f2679e53cb5a",
+  "active": "10629834f9817141",
   "lastOpenFiles": [
+    "assets/2026展望长篇/屏幕截图.md",
+    "推特帖子/总结复盘展望/年轻，就要All in每一年的高光 2026战略展望.md",
+    "assets/2026展望长篇",
+    "assets",
+    "人生知识库/爆火的AI名词概念/Happy Coder 安装配置指南.md",
+    "商单推广/ZenMux.md",
     "商单推广/assets/ZenMux/file-20260206164411983.png",
     "商单推广/assets/ZenMux/file-20260206164351099.png",
     "商单推广/assets/ZenMux/file-20260206162851652.png",
@@ -226,10 +232,8 @@
     "商单推广/assets/ZenMux/file-20260206161157582.png",
     "商单推广/assets/ZenMux",
     "推特帖子/方法经验/claude-mem插件安装配置完整指南.md",
-    "商单推广/ZenMux.md",
     "人生知识库/爆火的AI名词概念/Moltbook 是什么.md",
     "Claude Code对话精华内容/Obsidian MCP 插件错误排查与 IDE 连接问题.md",
-    "人生知识库/爆火的AI名词概念/Happy Coder 安装配置指南.md",
     "Claude Code对话精华内容/MCP-Skills-Subagent对比.md",
     "人生知识库/爆火的AI名词概念/Agent Skills、MCP、Subagent/Agent Skills、MCP、Subagent.md",
     "推特帖子/方法经验/Git Conventional Commits 提交类型规范.md",
@@ -247,7 +251,6 @@
     "推特帖子/工具分享/产品推广/未命名.base",
     "商单推广/assets/GamsGo第二弹/file-20260204150630014.png",
     "商单推广/assets/GamsGo第二弹/file-20260204150621463.png",
-    "商单推广/assets/GamsGo第二弹/file-20260204150551827.png",
     "商单推广/assets/GamsGo第二弹",
     "2026具体操作路径.canvas",
     "2026人生战略计划.canvas",
@@ -260,13 +263,10 @@
     "Claude Code对话精华内容/表格测试.md",
     "Claude Code对话精华内容",
     "推特帖子/工具分享/产品推广/未命名 1.md",
-    "未命名",
-    "商单推广/assets/GamsGo",
     "推特账号分析.md",
     "推特帖子/工具分享/kimi/kimi2.5集群做kpop视频.md",
     "推特帖子/未命名.md",
     "推特帖子/观点/2026一月/Learn in Public 和 Build in Public.md",
-    "推特帖子/观点/2026一月/不是所有的钱都要赚.md",
     "推特运营策略思维导图.canvas",
     "未命名 1.canvas"
   ]
