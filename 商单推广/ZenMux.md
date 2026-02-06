@@ -8,4 +8,8 @@ Zenmux在Claude Opus4.6出来之后第一个在全网就接入了，速度相当
 
 ![](assets/ZenMux/file-20260206162133406.png)
 
-但你千万不要认为ZenMux只是一个简单的Claude API中转站。它其实是一个聚合型网站，
+但你千万不要认为ZenMux只是一个简单的Claude API中转站。它其实是一个聚合型网站，还能调用Nano Banana Pro、Kimi2.5、GLM4.7等等国内外知名大模型，且上新速度全网第一。所以，如果有写代码、生图多维需求的朋友，赶紧mark这个宝藏网站~
+
+并且，还有个重磅福利！！！
+所有用户，在这两周内都能在ZenMux官网的Chat里面免费使用Claude Opus4.6，这可能真的是独一家的大气了！
+![](assets/ZenMux/file-20260206162851652.png)
