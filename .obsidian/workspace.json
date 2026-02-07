@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "年轻，就要All in每一年的高光 2026战略展望"
             }
+          },
+          {
+            "id": "2bb3f7330f31f6e3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,7 +230,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51b311a073bfb3bb",
+  "active": "2bb3f7330f31f6e3",
   "lastOpenFiles": [
     "推特帖子/总结复盘展望/assets/年轻，就要All in每一年的高光 2026战略展望/Generate_a_chinese_202601211957 (1).jpeg",
     "assets/2026展望长篇/屏幕截图.md",
