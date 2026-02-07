@@ -4,7 +4,7 @@
   "useMarkdownLinks": true,
   "newFileFolderPath": "/assets",
   "attachmentFolderPath": "./assets",
-  "readableLineLength": false,
+  "readableLineLength": true,
   "useTab": false,
   "autoConvertHtml": true,
   "newLinkFormat": "relative",
