@@ -190,8 +190,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -261,6 +261,22 @@
       "capabilities": [
         "reasoning"
       ]
+    },
+    {
+      "name": "anthropic/claude-haiku-4.5",
+      "provider": "3rd party (openai-format)",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://zenmux.ai/api/v1",
+      "apiKey": "sk-ss-v1-e453be44ae3c3eddfd8be4b8963357a6cb1c0cb2d3817b444b7496f2936a3ce6",
+      "isEmbeddingModel": false,
+      "capabilities": [
+        "vision",
+        "websearch"
+      ],
+      "stream": true,
+      "displayName": "anthropic/claude-haiku-4.5",
+      "enableCors": true
     }
   ],
   "activeEmbeddingModels": [

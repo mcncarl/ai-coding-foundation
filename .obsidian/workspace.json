@@ -11,17 +11,12 @@
             "id": "31c885edeac056a6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "2026人生战略计划.canvas",
-                "viewState": {
-                  "x": -3692.5,
-                  "y": 1102.5,
-                  "zoom": -3.8901918834620766
-                }
+                "file": "Excalidraw/Drawing 2026-02-08 18.49.18.excalidraw.md"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "2026人生战略计划"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-08 18.49.18.excalidraw"
             }
           }
         ]
@@ -197,9 +192,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "8f9ecebd8970b7d8",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -221,8 +226,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "31c885edeac056a6",
+  "active": "8f9ecebd8970b7d8",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/#_AI_协作内容生产流程_##_核心理念_###_第一性原理_前提条件：@20260208_193127.md",
+    "copilot/copilot-conversations",
+    "2026人生战略计划.canvas",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
@@ -241,7 +249,6 @@
     "copilot/copilot-custom-prompts",
     "copilot",
     "推特运营策略思维导图.canvas",
-    "2026人生战略计划.canvas",
     "2026具体操作路径.canvas",
     "Excalidraw/Drawing 2026-02-08 18.49.18.excalidraw.md",
     "Excalidraw/未命名 1.base",
@@ -267,8 +274,6 @@
     "商单推广/assets/ZenMux/file-20260206162851652.png",
     "商单推广/assets/ZenMux/file-20260206162133406.png",
     "商单推广/assets/ZenMux/file-20260206161157582.png",
-    "商单推广/assets/ZenMux",
-    "人生知识库/爆火的AI名词概念/Moltbook 是什么.md",
     "商单推广/assets/快手万擎/file-20260204215229946.png",
     "商单推广/assets/快手万擎/file-20260204213751402.png",
     "商单推广/assets/快手万擎/file-20260204212314183.png",
