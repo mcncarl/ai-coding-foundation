@@ -64,12 +64,11 @@
 		{"id":"eaf25bccfb0fa847","type":"text","text":"群聊","x":-1622,"y":29,"width":250,"height":60},
 		{"id":"aa6a2fba1825d039","type":"text","text":"读书笔记","x":-1547,"y":206,"width":250,"height":60},
 		{"id":"4533a02890ceed1a","type":"text","text":"英文区大V","x":514,"y":941,"width":250,"height":60},
-		{"id":"0870ffaa31564a76","type":"text","text":"天策","x":-1387,"y":1696,"width":97,"height":60},
-		{"id":"65944713802ef3e9","type":"text","text":"余温","x":-1514,"y":1691,"width":100,"height":60},
-		{"id":"1427bd6fc0b193be","type":"text","text":"Rachel","x":-1660,"y":1691,"width":105,"height":50},
-		{"id":"dd21d09dc96e9891","type":"text","text":"Merson | 破局思考","x":-1214,"y":1696,"width":202,"height":60},
 		{"id":"0317099d6c42fe9f","type":"text","text":"同龄人","x":-1464,"y":1362,"width":250,"height":60},
-		{"id":"da478266a89540fd","x":-1875,"y":1682,"width":250,"height":60,"type":"text","text":"送姜"}
+		{"id":"1427bd6fc0b193be","type":"text","text":"Rachel","x":-1740,"y":1661,"width":105,"height":50},
+		{"id":"65944713802ef3e9","type":"text","text":"余温","x":-1600,"y":1661,"width":100,"height":60},
+		{"id":"0870ffaa31564a76","type":"text","text":"天策","x":-1436,"y":1656,"width":97,"height":60},
+		{"id":"dd21d09dc96e9891","type":"text","text":"Merson | 破局思考","x":-1315,"y":1656,"width":202,"height":60}
 	],
 	"edges":[
 		{"id":"fd75f113162b96c8","fromNode":"a8416cbb5d5e1d34","fromSide":"top","toNode":"efefd694db1e92d8","toSide":"bottom"},
@@ -138,7 +137,6 @@
 		{"id":"8612fcde7dad03b0","fromNode":"0317099d6c42fe9f","fromSide":"bottom","toNode":"65944713802ef3e9","toSide":"top"},
 		{"id":"530d075fbc03d446","fromNode":"0317099d6c42fe9f","fromSide":"bottom","toNode":"0870ffaa31564a76","toSide":"top"},
 		{"id":"f0906137e7551ede","fromNode":"0317099d6c42fe9f","fromSide":"bottom","toNode":"1427bd6fc0b193be","toSide":"top"},
-		{"id":"d3ab6e4d40b02135","fromNode":"0317099d6c42fe9f","fromSide":"bottom","toNode":"dd21d09dc96e9891","toSide":"top"},
-		{"id":"d7dab7841812a64a","fromNode":"0317099d6c42fe9f","fromSide":"bottom","toNode":"da478266a89540fd","toSide":"top"}
+		{"id":"d3ab6e4d40b02135","fromNode":"0317099d6c42fe9f","fromSide":"bottom","toNode":"dd21d09dc96e9891","toSide":"top"}
 	]
 }

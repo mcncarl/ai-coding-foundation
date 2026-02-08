@@ -34,9 +34,26 @@
               "icon": "lucide-file",
               "title": "年轻，就要All in每一年的高光 2026战略展望"
             }
+          },
+          {
+            "id": "f91bab43e33e3b0d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "推特运营策略思维导图.canvas",
+                "viewState": {
+                  "x": -1082.3107015855135,
+                  "y": 1521.8826886895617,
+                  "zoom": -0.3302444204444596
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "推特运营策略思维导图"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,11 +246,16 @@
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "claudian:Open Claudian": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2bb3f7330f31f6e3",
+  "active": "f91bab43e33e3b0d",
   "lastOpenFiles": [
+    "2026人生战略计划.canvas",
+    "Excalidraw/Drawing 2026-02-08 18.49.18.excalidraw.md",
+    "推特帖子/总结复盘展望/年轻，就要All in每一年的高光 2026战略展望.md",
+    "Excalidraw",
     "推特帖子/观点/2026二月/流量大于产品.md",
     "推特帖子/方法经验/Git Conventional Commits 提交类型规范.md",
     "推特帖子/观点/2026二月",
@@ -241,7 +263,6 @@
     "推特帖子/方法经验/Claude Code对话精华导出Obsidian配置.md",
     "推特帖子/总结复盘展望/assets/年轻，就要All in每一年的高光 2026战略展望/Generate_a_chinese_202601211957 (1).jpeg",
     "assets/2026展望长篇/屏幕截图.md",
-    "推特帖子/总结复盘展望/年轻，就要All in每一年的高光 2026战略展望.md",
     "assets/2026展望长篇/Generate_a_chinese_202601211957.md",
     "推特帖子/总结复盘展望/assets/年轻，就要All in每一年的高光 2026战略展望/屏幕截图 2026-01-21 193003.png",
     "assets/2026展望长篇",
@@ -271,17 +292,13 @@
     "推特帖子/工具分享/产品推广/未命名.base",
     "商单推广/assets/GamsGo第二弹",
     "2026具体操作路径.canvas",
-    "2026人生战略计划.canvas",
     "阿逸的精华内容输出/示例笔记.md",
     "阿逸的精华内容输出",
     "测试文件夹/测试笔记.md",
-    "测试文件夹",
     "Claude Code对话精华内容/X Article Publisher - Windows环境配置与使用.md",
     "Claude Code对话精华内容/新格式测试.md",
     "Claude Code对话精华内容/表格测试.md",
     "推特帖子/工具分享/产品推广/未命名 1.md",
-    "推特账号分析.md",
-    "推特帖子/工具分享/kimi/kimi2.5集群做kpop视频.md",
     "推特运营策略思维导图.canvas",
     "未命名 1.canvas"
   ]

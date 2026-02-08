@@ -46,7 +46,7 @@
 		{"id":"8b8d3996f47c0ede","type":"text","text":"AI产品","x":-8035,"y":-1744,"width":250,"height":50},
 		{"id":"94df1f212bf6209e","type":"text","text":"纯血鸿蒙app","x":-7660,"y":-2155,"width":250,"height":60},
 		{"id":"04c5d5e78503d546","type":"text","text":"手机添加桌面小组件、长期代办、自定义模块等功能","x":-8895,"y":-2414,"width":250,"height":60},
-		{"id":"da0fbc0603d71a42","type":"text","text":"把桌面和手机打通","x":-8555,"y":-2414,"width":250,"height":60},
+		{"id":"da0fbc0603d71a42","type":"text","text":"把桌面和手机打通","x":-8555,"y":-2414,"width":250,"height":60,"color":"6"},
 		{"id":"27c618a5d4076184","type":"text","text":"竞品对标学习","x":-8255,"y":-2414,"width":180,"height":60},
 		{"id":"6f8510be5f9067f6","type":"text","text":"发布第一个露脸视频","x":-7481,"y":-3254,"width":250,"height":60,"color":"4"},
 		{"id":"c68165739a12a9af","type":"text","text":"下载录屏工具","x":-7198,"y":-3229,"width":250,"height":60,"color":"1"},
