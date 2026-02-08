@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-02-08 18.49.18.excalidraw.md"
+                "file": "Excalidraw/test-simple-flowchart.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-08 18.49.18.excalidraw"
+              "title": "test-simple-flowchart.excalidraw"
             }
           }
         ]
@@ -226,8 +226,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "8f9ecebd8970b7d8",
+  "active": "31c885edeac056a6",
   "lastOpenFiles": [
+    "Excalidraw/test-architecture-diagram.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-08 18.49.18.excalidraw.md",
+    "Excalidraw/test-simple-flowchart.excalidraw.md",
     "copilot/copilot-conversations/#_AI_协作内容生产流程_##_核心理念_###_第一性原理_前提条件：@20260208_193127.md",
     "copilot/copilot-conversations",
     "2026人生战略计划.canvas",
@@ -250,7 +253,6 @@
     "copilot",
     "推特运营策略思维导图.canvas",
     "2026具体操作路径.canvas",
-    "Excalidraw/Drawing 2026-02-08 18.49.18.excalidraw.md",
     "Excalidraw/未命名 1.base",
     "Excalidraw/未命名.base",
     "推特帖子/总结复盘展望/未命名.base",
@@ -267,8 +269,6 @@
     "推特帖子/总结复盘展望/assets/年轻，就要All in每一年的高光 2026战略展望/屏幕截图 2026-01-21 193003.png",
     "assets/2026展望长篇",
     "assets",
-    "人生知识库/爆火的AI名词概念/Happy Coder 安装配置指南.md",
-    "商单推广/ZenMux.md",
     "商单推广/assets/ZenMux/file-20260206164411983.png",
     "商单推广/assets/ZenMux/file-20260206164351099.png",
     "商单推广/assets/ZenMux/file-20260206162851652.png",
