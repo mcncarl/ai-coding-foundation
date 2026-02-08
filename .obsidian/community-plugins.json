@@ -4,5 +4,6 @@
   "obsidian-git",
   "obsidian-custom-attachment-location",
   "obsidian-local-rest-api",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "copilot"
 ]

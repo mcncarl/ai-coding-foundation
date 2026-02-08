@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 200
   },
   "right": {
     "id": "aa93703f3cf36c35",
@@ -217,11 +217,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "claudian:Open Claudian": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "31c885edeac056a6",
   "lastOpenFiles": [
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "推特运营策略思维导图.canvas",
     "2026人生战略计划.canvas",
     "2026具体操作路径.canvas",
@@ -251,25 +269,9 @@
     "商单推广/assets/ZenMux/file-20260206161157582.png",
     "商单推广/assets/ZenMux",
     "人生知识库/爆火的AI名词概念/Moltbook 是什么.md",
-    "Claude Code对话精华内容/Obsidian MCP 插件错误排查与 IDE 连接问题.md",
-    "Claude Code对话精华内容/MCP-Skills-Subagent对比.md",
-    "人生知识库/爆火的AI名词概念/Agent Skills、MCP、Subagent/Agent Skills、MCP、Subagent.md",
-    "商单推广/快手万擎.md",
     "商单推广/assets/快手万擎/file-20260204215229946.png",
     "商单推广/assets/快手万擎/file-20260204213751402.png",
     "商单推广/assets/快手万擎/file-20260204212314183.png",
-    "商单推广/assets/快手万擎",
-    "推特帖子/工具分享/Gemini Ultra.md",
-    "推特帖子/工具分享/Antigravity Agent Manager.md",
-    "商单推广/GamsGo第二弹.md",
-    "商单推广/GamsGo.md",
-    "推特帖子/工具分享/产品推广/未命名 1.base",
-    "阿逸的精华内容输出/示例笔记.md",
-    "测试文件夹/测试笔记.md",
-    "Claude Code对话精华内容/X Article Publisher - Windows环境配置与使用.md",
-    "Claude Code对话精华内容/新格式测试.md",
-    "Claude Code对话精华内容/表格测试.md",
-    "推特帖子/工具分享/产品推广/未命名 1.md",
     "未命名 1.canvas"
   ]
 }
