@@ -11,12 +11,14 @@
             "id": "31c885edeac056a6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/AI协作内容生产-完整指南.excalidraw.md"
+                "file": "推特帖子/总结复盘展望/年轻，就要All in每一年的高光 2026战略展望.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "AI协作内容生产-完整指南.excalidraw"
+              "icon": "lucide-file",
+              "title": "年轻，就要All in每一年的高光 2026战略展望"
             }
           }
         ]
@@ -228,8 +230,10 @@
   },
   "active": "31c885edeac056a6",
   "lastOpenFiles": [
-    "商单推广/快手万擎第二弹.md",
+    "推特帖子/总结复盘展望/未命名.base",
+    "推特帖子/总结复盘展望/年轻，就要All in每一年的高光 2026战略展望.md",
     "Excalidraw/AI协作内容生产-完整指南.excalidraw.md",
+    "商单推广/快手万擎第二弹.md",
     "Excalidraw/Drawing 2026-02-08 18.49.18.excalidraw.md",
     "商单推广/快手万擎.md",
     "商单推广/assets/快手万擎第二弹/file-20260209194040204.png",
@@ -266,14 +270,12 @@
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "推特运营策略思维导图.canvas",
     "2026具体操作路径.canvas",
     "Excalidraw/未命名 1.base",
     "Excalidraw/未命名.base",
-    "推特帖子/总结复盘展望/未命名.base",
     "Excalidraw",
     "推特帖子/观点/2026二月",
     "未命名 1.canvas"
