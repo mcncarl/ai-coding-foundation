@@ -11,10 +11,14 @@
             "id": "31c885edeac056a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "商单推广/快手万擎.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "快手万擎"
             }
           }
         ]
@@ -226,14 +230,14 @@
   },
   "active": "31c885edeac056a6",
   "lastOpenFiles": [
-    "Excalidraw/AI协作内容生产-8步法流程.excalidraw.md",
     "Excalidraw/AI协作内容生产-完整指南.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-08 18.49.18.excalidraw.md",
+    "Excalidraw/AI协作内容生产-8步法流程.excalidraw.md",
     "Excalidraw/AI协作-资源复用策略.excalidraw.md",
     "Excalidraw/AI协作-文件系统组织.excalidraw.md",
     "Excalidraw/AI协作-分工框架对比.excalidraw.md",
     "Excalidraw/test-simple-flowchart.excalidraw.md",
     "Excalidraw/test-architecture-diagram.excalidraw.md",
-    "Excalidraw/Drawing 2026-02-08 18.49.18.excalidraw.md",
     "copilot/copilot-conversations/#_AI_协作内容生产流程_##_核心理念_###_第一性原理_前提条件：@20260208_193127.md",
     "copilot/copilot-conversations",
     "2026人生战略计划.canvas",
