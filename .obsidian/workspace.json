@@ -11,14 +11,12 @@
             "id": "31c885edeac056a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "推特帖子/观点/2026一月/传统行业老板转型得多认识00后.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/AI协作内容生产-完整指南.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "传统行业老板转型得多认识00后"
+              "icon": "excalidraw-icon",
+              "title": "AI协作内容生产-完整指南.excalidraw"
             }
           }
         ]
@@ -230,6 +228,12 @@
   },
   "active": "31c885edeac056a6",
   "lastOpenFiles": [
+    "选题库/工具分享/工具分享.md",
+    "选题库/观点/金句.md",
+    "Excalidraw/AI协作内容生产-完整指南.excalidraw.md",
+    "未命名.md",
+    "未命名 1.md",
+    "推特帖子/观点/2026一月/传统行业老板转型得多认识00后.md",
     "推特帖子/观点/2026一月/广告背后都是商机.md",
     "推特帖子/观点/2026一月/普通人追AI热点的正确打开方式.md",
     "推特帖子/观点/2026一月/独有数据.md",
@@ -238,8 +242,6 @@
     "推特帖子/观点/2026一月/不是所有的钱都要赚.md",
     "推特帖子/方法经验/普通人最简单用AI武装电脑的方法.md",
     "推特帖子/总结复盘展望/年轻，就要All in每一年的高光 2026战略展望.md",
-    "未命名.md",
-    "未命名 1.md",
     "人生知识库/爆火的AI名词概念/未命名.md",
     "人生知识库/爆火的AI名词概念/Happy Coder 安装配置指南.md",
     "人生知识库/爆火的AI名词概念/Moltbook 是什么.md",
@@ -252,7 +254,6 @@
     "人生知识库/爆火的AI名词概念",
     "人生知识库",
     "推特帖子/总结复盘展望/未命名.base",
-    "Excalidraw/AI协作内容生产-完整指南.excalidraw.md",
     "商单推广/快手万擎第二弹.md",
     "Excalidraw/Drawing 2026-02-08 18.49.18.excalidraw.md",
     "商单推广/快手万擎.md",
@@ -270,9 +271,6 @@
     "商单推广/assets/assets",
     "Excalidraw/AI协作内容生产-8步法流程.excalidraw.md",
     "Excalidraw/AI协作-资源复用策略.excalidraw.md",
-    "Excalidraw/AI协作-文件系统组织.excalidraw.md",
-    "Excalidraw/AI协作-分工框架对比.excalidraw.md",
-    "Excalidraw/test-simple-flowchart.excalidraw.md",
     "copilot/copilot-conversations",
     "2026人生战略计划.canvas",
     "copilot/copilot-custom-prompts",
