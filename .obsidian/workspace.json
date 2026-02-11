@@ -11,12 +11,14 @@
             "id": "31c885edeac056a6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/AI协作内容生产-完整指南.excalidraw.md"
+                "file": "推特帖子/方法经验/未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "AI协作内容生产-完整指南.excalidraw"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
         ]
@@ -228,9 +230,10 @@
   },
   "active": "31c885edeac056a6",
   "lastOpenFiles": [
+    "Excalidraw/AI协作内容生产-完整指南.excalidraw.md",
+    "推特帖子/方法经验/未命名.md",
     "选题库/工具分享/工具分享.md",
     "选题库/观点/金句.md",
-    "Excalidraw/AI协作内容生产-完整指南.excalidraw.md",
     "未命名.md",
     "未命名 1.md",
     "推特帖子/观点/2026一月/传统行业老板转型得多认识00后.md",
@@ -270,7 +273,6 @@
     "商单推广/assets/快手万擎第二弹",
     "商单推广/assets/assets",
     "Excalidraw/AI协作内容生产-8步法流程.excalidraw.md",
-    "Excalidraw/AI协作-资源复用策略.excalidraw.md",
     "copilot/copilot-conversations",
     "2026人生战略计划.canvas",
     "copilot/copilot-custom-prompts",
