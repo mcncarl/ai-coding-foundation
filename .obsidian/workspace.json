@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "a0bda33fdde952b5",
+        "id": "400b451dbb925905",
         "type": "tabs",
         "children": [
           {
-            "id": "31c885edeac056a6",
+            "id": "79f56718b0735ffe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "推特帖子/方法经验/《从建立素材库到发布：用Obsidian+Claude Code打造内容创作工厂，小白入门级教程》.md",
+                "file": "推特帖子/方法经验/Claudian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "《从建立素材库到发布：用Obsidian+Claude Code打造内容创作工厂，小白入门级教程》"
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "36e3a5b9fb2601c1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/AI协作内容生产-完整指南.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "AI协作内容生产-完整指南.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:()",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-01-06.md",
+                "file": "Excalidraw/AI协作内容生产-完整指南.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-06 的大纲"
+              "title": "AI协作内容生产-完整指南.excalidraw 的大纲"
             }
           },
           {
@@ -204,13 +217,23 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "7a232a5aa5c71e2e",
+            "type": "leaf",
+            "state": {
+              "type": "mp-preview",
+              "state": {},
+              "icon": "eye",
+              "title": "公众号预览"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 525.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,14 +248,53 @@
       "claudian:Open Claudian": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "mp-preview:打开公众号预览": false
     }
   },
-  "active": "31c885edeac056a6",
+  "active": "36e3a5b9fb2601c1",
   "lastOpenFiles": [
-    "copilot/copilot-conversations/现在有一个idea，我想写一篇关于Obsidian的文章，我想讲几个东@20260211_120543.md",
+    "assets/未命名 2/1月30日.mp4",
+    "Excalidraw/AI协作内容生产-完整指南.excalidraw.md",
+    "《逐梦》华为应用市场上架准备计划.md",
+    "推特帖子/方法经验/Claudian.md",
+    "推特帖子/方法经验/assets/Claudian/file-20260213132425533.png",
+    "推特帖子/方法经验/assets/Claudian/file-20260213132410733.png",
+    "推特帖子/方法经验/assets/Claudian/file-20260213132358044.png",
+    "推特帖子/方法经验/assets/Claudian/file-20260213132329836.png",
+    "推特帖子/方法经验/assets/Claudian/file-20260213132306583.png",
+    "推特帖子/方法经验/assets/Claudian/file-20260213132246312.png",
+    "推特帖子/方法经验/assets/Claudian/file-20260213132219387.png",
+    "推特帖子/方法经验/assets/Claudian",
+    "推特帖子/方法经验/未命名.base",
+    "推特帖子/方法经验/未命名 1.base",
+    "未命名 1.md",
+    "推特运营策略思维导图.canvas",
+    "推特帖子/观点/2026二月/assets/浏览器自动化/屏幕截图 2026-01-29 201018.png",
+    "推特帖子/观点/2026二月/浏览器自动化.md",
+    "推特帖子/观点/2026二月/assets/浏览器自动化/屏幕截图 2026-02-11 173902.png",
+    "推特帖子/观点/2026二月/assets/浏览器自动化",
+    "Claude Code对话精华内容/Obsidian MP Preview 插件使用指南.md",
+    "推特帖子/观点/2026二月/我觉得必须关注的中文区大V.md",
+    "推特帖子/观点/2026二月/deepseek.md",
+    "推特帖子/观点/2026二月/assets/deepseek/32fa2b0e3f851819531f44a091aff1fd.jpg",
+    "推特帖子/观点/2026二月/assets/deepseek",
+    "推特帖子/观点/2026二月/assets",
+    "推特帖子/观点/2026二月/obsidian+claude code.md",
+    "copilot/copilot-conversations/帮我优化成适合发布到X的帖子风格@20260211_201033.md",
+    "copilot/memory/Recent Conversations.md",
+    "copilot/memory",
+    "推特帖子/方法经验/《用Obsidian+Claude Code打造内容创作工厂并自动上传，小白入门级教程》.md",
+    "2026具体操作路径.canvas",
+    "推特帖子/方法经验/assets/《用Obsidian+Claude Code打造内容创作工厂并自动上传，小白入门级教程》",
+    "推特帖子/方法经验/assets/《用Obsidian+Claude Code打造内容创作工厂并自动上传，小白入门保姆级教程》",
+    "推特帖子/方法经验/CUsersHPAppDataLocalTemparticle_html.html",
+    "商单推广/ZenMux.md",
     "推特帖子/观点/2026一月/贵就是便宜，便宜就是贵.md",
-    "推特帖子/观点/2026一月/贵就是便宜，便宜就是贵/Generate_a_beautifully_202601222150.jpeg",
+    "未命名 2.md",
+    "推特帖子/观点/2026一月/先吃饱饭,再谈道.md",
+    "推特帖子/观点/2026一月/文科生和小白入门AI，十条极其反常识的心法.md",
+    "copilot/copilot-conversations/现在有一个idea，我想写一篇关于Obsidian的文章，我想讲几个东@20260211_120543.md",
     "推特帖子/观点/2026一月/贵就是便宜，便宜就是贵/怀揣乐观的心态.md",
     "推特帖子/总结复盘展望/年轻，就要All in每一年的高光 2026战略展望.md",
     "推特帖子/总结复盘展望/1000fo复盘.md",
@@ -240,45 +302,7 @@
     "推特帖子/总结复盘展望/复盘2025经历.md",
     "推特帖子/总结复盘展望/2026展望精华版.md",
     "推特帖子/方法经验/月入千刀经验分享.md",
-    "推特帖子/方法经验/普通人最简单用AI武装电脑的方法.md",
-    "推特帖子/方法经验/《从建立素材库到发布：用Obsidian+Claude Code打造内容创作工厂，小白入门级教程》.md",
-    "Excalidraw/AI协作内容生产-完整指南.excalidraw.md",
-    "选题库/工具分享/工具分享.md",
-    "选题库/观点/金句.md",
-    "未命名.md",
-    "未命名 1.md",
-    "推特帖子/观点/2026一月/传统行业老板转型得多认识00后.md",
-    "推特帖子/观点/2026一月/广告背后都是商机.md",
-    "推特帖子/观点/2026一月/普通人追AI热点的正确打开方式.md",
-    "推特帖子/观点/2026一月/独有数据.md",
-    "推特帖子/观点/2026一月/2026的四个小红书商机.md",
-    "推特帖子/观点/2026一月/assets/Learn in Public 和 Build in Public/file-20260130201730671.png",
-    "推特帖子/观点/2026一月/不是所有的钱都要赚.md",
-    "人生知识库/爆火的AI名词概念/未命名.md",
-    "人生知识库/爆火的AI名词概念/Happy Coder 安装配置指南.md",
-    "人生知识库/爆火的AI名词概念/Moltbook 是什么.md",
-    "人生知识库/爆火的AI名词概念/Agent Skills、MCP、Subagent/assets/Pasted image 20260120132912.png",
-    "人生知识库/爆火的AI名词概念/Agent Skills、MCP、Subagent/assets/NotebookLM Mind Map.png",
-    "人生知识库/爆火的AI名词概念/Agent Skills、MCP、Subagent/assets/NotebookLM Mind Map (5).png",
-    "人生知识库/爆火的AI名词概念/Agent Skills、MCP、Subagent/assets",
-    "人生知识库/爆火的AI名词概念/Agent Skills、MCP、Subagent/Agent Skills、MCP、Subagent.md",
-    "人生知识库/爆火的AI名词概念/Agent Skills、MCP、Subagent",
-    "人生知识库/爆火的AI名词概念",
-    "人生知识库",
-    "推特帖子/总结复盘展望/未命名.base",
-    "商单推广/assets/快手万擎第二弹/file-20260209194040204.png",
-    "商单推广/assets/快手万擎第二弹/屏幕截图 2026-02-09 191724.png",
-    "商单推广/assets/快手万擎/file-20260204212314183.png",
-    "商单推广/assets/快手万擎/file-20260204215229946.png",
-    "商单推广/assets/快手万擎/file-20260204213751402.png",
-    "商单推广/assets/快手万擎第二弹",
-    "商单推广/assets/assets",
-    "copilot/copilot-conversations",
     "2026人生战略计划.canvas",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "推特运营策略思维导图.canvas",
-    "2026具体操作路径.canvas",
     "未命名 1.canvas"
   ]
 }

@@ -190,8 +190,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -263,7 +263,7 @@
       ]
     },
     {
-      "name": "anthropic/claude-haiku-4.5",
+      "name": "anthropic/claude-sonnet-4.5",
       "provider": "3rd party (openai-format)",
       "enabled": true,
       "isBuiltIn": false,
@@ -275,8 +275,10 @@
         "websearch"
       ],
       "stream": true,
-      "displayName": "anthropic/claude-haiku-4.5",
-      "enableCors": true
+      "displayName": "anthropic/claude-sonnet-4.5",
+      "enableCors": true,
+      "maxTokens": 128000,
+      "temperature": 0.51
     }
   ],
   "activeEmbeddingModels": [
