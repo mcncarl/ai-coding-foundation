@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79f56718b0735ffe",
+            "id": "36e3a5b9fb2601c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "推特帖子/方法经验/Claudian.md",
+                "file": "内容生产工厂/1-素材库/Claude Code对话记录/Obsidian MP Preview 插件使用指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claudian"
+              "title": "Obsidian MP Preview 插件使用指南"
             }
           },
           {
-            "id": "36e3a5b9fb2601c1",
+            "id": "39d847aa28760a68",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -33,8 +33,7 @@
               "title": "AI协作内容生产-完整指南.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 305.5
   },
   "right": {
     "id": "aa93703f3cf36c35",
@@ -169,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "设计文件/Excalidraw/AI协作内容生产-完整指南.excalidraw.md",
+                "file": "内容生产工厂/1-素材库/Claude Code对话记录/Obsidian MP Preview 插件使用指南.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AI协作内容生产-完整指南.excalidraw 的大纲"
+              "title": "Obsidian MP Preview 插件使用指南 的大纲"
             }
           },
           {
@@ -252,38 +251,41 @@
       "mp-preview:打开公众号预览": false
     }
   },
-  "active": "36e3a5b9fb2601c1",
+  "active": "6d3eade962047d99",
   "lastOpenFiles": [
+    "内容生产工厂/5-内容输出/推特帖子/2026-01/贵就是便宜，便宜就是贵/怀揣乐观的心态.md",
+    "内容生产工厂/5-内容输出/推特帖子/2026-01/贵就是便宜，便宜就是贵/Generate_a_beautifully_202601222150.jpeg",
+    "内容生产工厂/5-内容输出/推特帖子/2026-01/贵就是便宜，便宜就是贵",
+    "设计文件/Excalidraw/AI协作内容生产-完整指南.excalidraw.md",
+    "内容生产工厂/3-资产库/爆款内容库/爆款结构模板.md",
+    "内容生产工厂/核心概念说明.md",
+    "内容生产工厂/1-素材库/Claude Code对话记录/Obsidian MP Preview 插件使用指南.md",
+    "推特帖子/方法经验/Claudian.md",
+    "内容生产工厂/1-素材库/爆款拆解/示例-快速拆解（5分钟版）.md",
+    "内容生产工厂/1-素材库/爆款拆解/拆解模板.md",
+    "内容生产工厂/1-素材库/爆款拆解/示例笔记.md",
+    "内容生产工厂/1-素材库/爆款拆解/README.md",
+    "内容生产工厂/3-资产库/方法论文档/claude-mem插件安装配置完整指南.md",
+    "内容生产工厂/3-资产库/方法论文档/Claude Code对话精华导出Obsidian配置.md",
+    "内容生产工厂/3-资产库/方法论文档/ASCII图复习法学.md",
+    "内容生产工厂/3-资产库/方法论文档/Antigravity打开方法.md",
+    "内容生产工厂/3-资产库/方法论文档/AI协作最佳实践.md",
+    "内容生产工厂/3-资产库/方法论文档/月入千刀经验分享.md",
+    "内容生产工厂/3-资产库/方法论文档/选题策划流程.md",
+    "内容生产工厂/3-资产库/方法论文档/推特写作规范.md",
+    "内容生产工厂/3-资产库/方法论文档/数据追踪方法.md",
+    "内容生产工厂/3-资产库/方法论文档/普通人最简单用AI武装电脑的方法.md",
+    "内容生产工厂/3-资产库/方法论文档/《用Obsidian+Claude Code打造内容创作工厂并自动上传，小白入门级教程》.md",
+    "内容生产工厂/3-资产库/爆款内容库/金句集锦.md",
+    "内容生产工厂/3-资产库/爆款内容库/爆款开头库.md",
+    "内容生产工厂/3-资产库/素材数据库/竞品分析/README.md",
+    "内容生产工厂/3-资产库/素材数据库/案例故事/1K咨询.md",
     "战略规划/2026具体操作路径.canvas",
     "战略规划/2026人生战略计划.canvas",
     "战略规划/推特运营策略思维导图.canvas",
     "README.md",
-    "copilot/copilot-conversations/#_AI_协作内容生产流程_##_核心理念_###_第一性原理_前提条件：@20260208_193127.md",
-    "内容生产工厂/1-素材输入/爆款拆解/README.md",
-    "内容生产工厂/1-素材输入/对话记录/Obsidian MP Preview 插件使用指南.md",
-    "内容生产工厂/1-素材输入/爆款拆解/示例-快速拆解（5分钟版）.md",
-    "内容生产工厂/3-资产库/素材数据库/竞品分析/README.md",
     "内容生产工厂/3-资产库/素材数据库/竞品分析",
-    "内容生产工厂/1-素材输入/爆款拆解/拆解模板.md",
-    "内容生产工厂/1-素材输入/爆款拆解/示例笔记.md",
-    "内容生产工厂/1-素材输入/爆款拆解",
-    "内容生产工厂/1-素材输入/推文收藏/示例笔记.md",
-    "设计文件/Excalidraw/AI协作内容生产-完整指南.excalidraw.md",
-    "copilot/memory/Recent Conversations.md",
-    "未命名 2.md",
-    "知识库/AI工具学习/爆火的AI名词概念/Happy Coder 安装配置指南.md",
-    "知识库/AI工具学习/爆火的AI名词概念/Moltbook 是什么.md",
-    "知识库/产品开发/《逐梦》华为应用市场上架准备计划.md",
-    "copilot/copilot-conversations/现在有一个idea，我想写一篇关于Obsidian的文章，我想讲几个东@20260211_120543.md",
-    "copilot/copilot-conversations/看一下当前这篇文章有没有优化建议。我要开头吸引人。我也@20260209_194343.md",
-    "copilot/copilot-conversations/帮我优化成适合发布到X的帖子风格@20260211_201033.md",
-    "Excalidraw/AI协作内容生产-完整指南.excalidraw.md",
-    "内容生产工厂/2-选题管理/README.md",
-    "内容生产工厂/4-数据统计/粉丝增长曲线.md",
-    "内容生产工厂/4-数据统计/选题表现追踪.md",
-    "内容生产工厂/4-数据统计/爆款内容分析.md",
-    "内容生产工厂/4-数据统计/月度报告模板.md",
-    "内容生产工厂/3-资产库/方法论文档/数据追踪方法.md",
+    "内容生产工厂/1-素材库/爆款拆解",
     "知识库/商业运营/商单推广/assets/快手万擎第二弹/屏幕截图 2026-02-09 191724.png",
     "知识库/商业运营/商单推广/assets/快手万擎第二弹/file-20260209194040204.png",
     "知识库/商业运营/商单推广/assets/ZenMux/file-20260206164411983.png",
@@ -293,7 +295,6 @@
     "知识库/商业运营/商单推广/assets/快手万擎/file-20260204213751402.png",
     "知识库/商业运营/商单推广/assets/快手万擎/file-20260204212314183.png",
     "知识库/商业运营/商单推广/assets/ZenMux/file-20260206164351099.png",
-    "知识库/商业运营/商单推广/assets/ZenMux/file-20260206162851652.png",
     "知识库/商业运营/商单推广/assets/快手万擎第二弹",
     "知识库/商业运营/商单推广/assets/快手万擎",
     "知识库/商业运营/商单推广/assets/ZenMux",
@@ -301,7 +302,6 @@
     "知识库/商业运营/商单推广/assets/GamsGo",
     "知识库/商业运营/商单推广/assets",
     "知识库/商业运营/商单推广",
-    "知识库/AI工具学习/爆火的AI名词概念/Agent Skills、MCP、Subagent/assets",
     "推特运营策略思维导图.canvas",
     "2026具体操作路径.canvas",
     "2026人生战略计划.canvas",
