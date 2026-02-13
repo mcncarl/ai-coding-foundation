@@ -1,0 +1,1 @@
+真的一点不想去复习民诉 antigravity+opencode 早上打开电脑就是coding glm4.7+claude opus4.5+gemini3 pro 我能同时跑几个项目 快要review不过来了 但是这种感觉真的上瘾啊 以前打游戏打几个小时也就不想玩了 vibe coding真的是鸦片啊 顺便讲解一下要同时打开这两个软件的条件 （不要反代，总感觉容易出问题） 梯子挂规则就行，不要全局，否则opencode打不开 但是要开tun，否则antigravity又打不开 还要注意一点，文件夹名字用英文 要不然我出现我下面第二张图打不开文件夹的情况
