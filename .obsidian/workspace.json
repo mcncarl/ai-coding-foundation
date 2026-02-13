@@ -25,14 +25,12 @@
             "id": "36e3a5b9fb2601c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "内容生产工厂/1-素材输入/对话记录/Obsidian MP Preview 插件使用指南.md",
-                "mode": "source",
-                "source": false
+                "file": "设计文件/Excalidraw/AI协作内容生产-完整指南.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Obsidian MP Preview 插件使用指南"
+              "icon": "excalidraw-icon",
+              "title": "AI协作内容生产-完整指南.excalidraw"
             }
           }
         ],
@@ -171,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "内容生产工厂/1-素材输入/对话记录/Obsidian MP Preview 插件使用指南.md",
+                "file": "设计文件/Excalidraw/AI协作内容生产-完整指南.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Obsidian MP Preview 插件使用指南 的大纲"
+              "title": "AI协作内容生产-完整指南.excalidraw 的大纲"
             }
           },
           {
@@ -256,11 +254,22 @@
   },
   "active": "36e3a5b9fb2601c1",
   "lastOpenFiles": [
+    "战略规划/2026具体操作路径.canvas",
+    "战略规划/2026人生战略计划.canvas",
+    "战略规划/推特运营策略思维导图.canvas",
+    "README.md",
+    "copilot/copilot-conversations/#_AI_协作内容生产流程_##_核心理念_###_第一性原理_前提条件：@20260208_193127.md",
+    "内容生产工厂/1-素材输入/爆款拆解/README.md",
+    "内容生产工厂/1-素材输入/对话记录/Obsidian MP Preview 插件使用指南.md",
+    "内容生产工厂/1-素材输入/爆款拆解/示例-快速拆解（5分钟版）.md",
+    "内容生产工厂/3-资产库/素材数据库/竞品分析/README.md",
+    "内容生产工厂/3-资产库/素材数据库/竞品分析",
+    "内容生产工厂/1-素材输入/爆款拆解/拆解模板.md",
+    "内容生产工厂/1-素材输入/爆款拆解/示例笔记.md",
+    "内容生产工厂/1-素材输入/爆款拆解",
     "内容生产工厂/1-素材输入/推文收藏/示例笔记.md",
     "设计文件/Excalidraw/AI协作内容生产-完整指南.excalidraw.md",
-    "README.md",
     "copilot/memory/Recent Conversations.md",
-    "copilot/copilot-conversations/#_AI_协作内容生产流程_##_核心理念_###_第一性原理_前提条件：@20260208_193127.md",
     "未命名 2.md",
     "知识库/AI工具学习/爆火的AI名词概念/Happy Coder 安装配置指南.md",
     "知识库/AI工具学习/爆火的AI名词概念/Moltbook 是什么.md",
@@ -275,13 +284,6 @@
     "内容生产工厂/4-数据统计/爆款内容分析.md",
     "内容生产工厂/4-数据统计/月度报告模板.md",
     "内容生产工厂/3-资产库/方法论文档/数据追踪方法.md",
-    "内容生产工厂/3-资产库/方法论文档/AI协作最佳实践.md",
-    "内容生产工厂/3-资产库/方法论文档/选题策划流程.md",
-    "内容生产工厂/3-资产库/方法论文档/推特写作规范.md",
-    "内容生产工厂/3-资产库/核心概念库/创业方法论/信息差永远存在.md",
-    "内容生产工厂/3-资产库/核心概念库/自媒体技巧/流量为王.md",
-    "内容生产工厂/3-资产库/核心概念库/创业方法论/复利系统.md",
-    "内容生产工厂/3-资产库/核心概念库/AI工具知识/MCP-Skills-Subagent核心概念.md",
     "知识库/商业运营/商单推广/assets/快手万擎第二弹/屏幕截图 2026-02-09 191724.png",
     "知识库/商业运营/商单推广/assets/快手万擎第二弹/file-20260209194040204.png",
     "知识库/商业运营/商单推广/assets/ZenMux/file-20260206164411983.png",
@@ -300,11 +302,6 @@
     "知识库/商业运营/商单推广/assets",
     "知识库/商业运营/商单推广",
     "知识库/AI工具学习/爆火的AI名词概念/Agent Skills、MCP、Subagent/assets",
-    "知识库/AI工具学习/爆火的AI名词概念/Agent Skills、MCP、Subagent",
-    "知识库/AI工具学习/爆火的AI名词概念",
-    "战略规划/推特运营策略思维导图.canvas",
-    "战略规划/2026具体操作路径.canvas",
-    "战略规划/2026人生战略计划.canvas",
     "推特运营策略思维导图.canvas",
     "2026具体操作路径.canvas",
     "2026人生战略计划.canvas",
