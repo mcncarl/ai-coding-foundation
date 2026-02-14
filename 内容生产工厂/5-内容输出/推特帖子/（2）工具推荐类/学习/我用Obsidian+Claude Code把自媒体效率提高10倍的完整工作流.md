@@ -1,4 +1,3 @@
-# 我用Obsidian+Claude Code把自媒体效率提高10倍的完整工作流
 
 Obsidian+Claude Code是AI时代每个普通人开始自媒体写作必须掌握的技能，别再用飞书、Notion，学会这两个工具的组合技直接把效率提高十倍。
 
