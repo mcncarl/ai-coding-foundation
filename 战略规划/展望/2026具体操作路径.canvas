@@ -1,418 +1,55 @@
 {
-	"nodes": [
-		{
-			"id": "69e13ca0d27eb924",
-			"type": "text",
-			"text": "早睡早起，每天三公里",
-			"x": -973,
-			"y": -780,
-			"width": 250,
-			"height": 60,
-			"color": "1"
-		},
-		{
-			"id": "6016720d13a0115b",
-			"type": "text",
-			"text": "查找一下科学的方法，看一下是否能调整",
-			"x": -600,
-			"y": -780,
-			"width": 250,
-			"height": 60,
-			"color": "1"
-		},
-		{
-			"id": "03b13d84a3415a84",
-			"type": "text",
-			"text": "每天的公众号需要看一下",
-			"x": -973,
-			"y": -680,
-			"width": 250,
-			"height": 60,
-			"color": "1"
-		},
-		{
-			"id": "209d8fd7a7777214",
-			"type": "text",
-			"text": "至少投入两个小时学习AI基础知识",
-			"x": -973,
-			"y": -580,
-			"width": 250,
-			"height": 60,
-			"color": "1"
-		},
-		{
-			"id": "27360d7dbb5b502b",
-			"type": "text",
-			"text": "补齐所有AI应用类的知识，从余温的知识库开始，先C后B",
-			"x": -680,
-			"y": -580,
-			"width": 260,
-			"height": 60
-		},
-		{
-			"id": "06de7abf31f4fc08",
-			"type": "text",
-			"text": "公众号（卡兹克等博主）",
-			"x": -261,
-			"y": -580,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "b5f4bbec1b81d0a3",
-			"type": "text",
-			"text": "每天阅读中文区大V和英文区大V的日报",
-			"x": -670,
-			"y": -406,
-			"width": 250,
-			"height": 60,
-			"color": "1"
-		},
-		{
-			"id": "68cd95e91860232f",
-			"type": "text",
-			"text": "B端企业服务",
-			"x": 40,
-			"y": -580,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "ed0106b0e4818433",
-			"type": "text",
-			"text": "三条高质量的X评论",
-			"x": -510,
-			"y": -260,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "80d8130b5e9eb9da",
-			"type": "text",
-			"text": "一篇高质量的X推文引用",
-			"x": -761,
-			"y": -260,
-			"width": 211,
-			"height": 60
-		},
-		{
-			"id": "55a07957e6e22eec",
-			"type": "text",
-			"text": "打造内容工厂，skills的创建",
-			"x": -261,
-			"y": -120,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "ff8dd315872806f2",
-			"type": "text",
-			"text": "每天刷半个小时的X（英推20分钟，中推10分钟）【回复评论不算】",
-			"x": -972,
-			"y": -419,
-			"width": 249,
-			"height": 87,
-			"color": "1"
-		},
-		{
-			"id": "0a8ab536e598faee",
-			"type": "text",
-			"text": "每天一篇高质量的X推文",
-			"x": -972,
-			"y": -120,
-			"width": 250,
-			"height": 60,
-			"color": "1"
-		},
-		{
-			"id": "bdd6c5be02d764b0",
-			"type": "text",
-			"text": "每天睡前读20分钟纸质书",
-			"x": -972,
-			"y": 0,
-			"width": 250,
-			"height": 60,
-			"color": "1"
-		},
-		{
-			"id": "57e0ce7f60cf05ff",
-			"type": "text",
-			"text": "逐梦开发，App上架",
-			"x": -1630,
-			"y": -60,
-			"width": 250,
-			"height": 60,
-			"color": "5"
-		},
-		{
-			"id": "38caa63f19b2e559",
-			"type": "text",
-			"text": "积累素材库",
-			"x": -1325,
-			"y": -405,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "514990e3fad7df3f",
-			"type": "text",
-			"text": "学习一下公众号爆款文章的写法",
-			"x": -1325,
-			"y": -200,
-			"width": 251,
-			"height": 95,
-			"color": "2"
-		},
-		{
-			"id": "69469567e29248e2",
-			"type": "text",
-			"text": "每两周至少做一条AI中长视频，一分钟以上",
-			"x": -1630,
-			"y": 30,
-			"width": 250,
-			"height": 60,
-			"color": "2"
-		},
-		{
-			"id": "6cf175f0fd41ab98",
-			"type": "text",
-			"text": "每周抽一天读生财的精华帖",
-			"x": -1630,
-			"y": 120,
-			"width": 250,
-			"height": 60,
-			"color": "2"
-		},
-		{
-			"id": "ef4abfbf219f20a4",
-			"type": "text",
-			"text": "探索一下谷歌实验室",
-			"x": -1325,
-			"y": -518,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "0cfb01fb4f53236b",
-			"type": "text",
-			"text": "制作第一个AI自媒体视频",
-			"x": -1325,
-			"y": -680,
-			"width": 250,
-			"height": 60
-		},
-		{
-			"id": "b07dc8e492f81eca",
-			"type": "text",
-			"text": "拆解国内大V视频",
-			"x": -1600,
-			"y": -682,
-			"width": 250,
-			"height": 60,
-			"color": "2"
-		},
-		{
-			"id": "02270bf38c102e03",
-			"type": "text",
-			"text": "AI自媒体（小红书、推特、抖音）",
-			"x": -2020,
-			"y": -682,
-			"width": 290,
-			"height": 60
-		}
+	"nodes":[
+		{"id":"69e13ca0d27eb924","type":"text","text":"早睡早起，每天三公里","x":-973,"y":-780,"width":250,"height":60,"color":"1"},
+		{"id":"6016720d13a0115b","type":"text","text":"查找一下科学的方法，看一下是否能调整","x":-600,"y":-780,"width":250,"height":60,"color":"1"},
+		{"id":"03b13d84a3415a84","type":"text","text":"每天的公众号需要看一下","x":-973,"y":-680,"width":250,"height":60,"color":"1"},
+		{"id":"209d8fd7a7777214","type":"text","text":"至少投入两个小时学习AI基础知识","x":-973,"y":-580,"width":250,"height":60,"color":"1"},
+		{"id":"27360d7dbb5b502b","type":"text","text":"补齐所有AI应用类的知识，从余温的知识库开始，先C后B","x":-680,"y":-580,"width":260,"height":60},
+		{"id":"06de7abf31f4fc08","type":"text","text":"公众号（卡兹克等博主）","x":-261,"y":-580,"width":250,"height":60},
+		{"id":"b5f4bbec1b81d0a3","type":"text","text":"每天阅读中文区大V和英文区大V的日报","x":-670,"y":-406,"width":250,"height":60,"color":"1"},
+		{"id":"68cd95e91860232f","type":"text","text":"B端企业服务","x":40,"y":-580,"width":250,"height":60},
+		{"id":"ed0106b0e4818433","type":"text","text":"三条高质量的X评论","x":-510,"y":-260,"width":250,"height":60},
+		{"id":"80d8130b5e9eb9da","type":"text","text":"一篇高质量的X推文引用","x":-761,"y":-260,"width":211,"height":60},
+		{"id":"55a07957e6e22eec","type":"text","text":"打造内容工厂，skills的创建","x":-261,"y":-120,"width":250,"height":60},
+		{"id":"ff8dd315872806f2","type":"text","text":"每天刷半个小时的X（英推20分钟，中推10分钟）【回复评论不算】","x":-972,"y":-419,"width":249,"height":87,"color":"1"},
+		{"id":"0a8ab536e598faee","type":"text","text":"每天一篇高质量的X推文","x":-972,"y":-120,"width":250,"height":60,"color":"1"},
+		{"id":"bdd6c5be02d764b0","type":"text","text":"每天睡前读20分钟纸质书","x":-972,"y":0,"width":250,"height":60,"color":"1"},
+		{"id":"57e0ce7f60cf05ff","type":"text","text":"逐梦开发，App上架","x":-1630,"y":-60,"width":250,"height":60,"color":"5"},
+		{"id":"38caa63f19b2e559","type":"text","text":"积累素材库","x":-1325,"y":-405,"width":250,"height":60},
+		{"id":"514990e3fad7df3f","type":"text","text":"学习一下公众号爆款文章的写法","x":-1325,"y":-200,"width":251,"height":95,"color":"2"},
+		{"id":"69469567e29248e2","type":"text","text":"每两周至少做一条AI中长视频，一分钟以上","x":-1630,"y":30,"width":250,"height":60,"color":"2"},
+		{"id":"6cf175f0fd41ab98","type":"text","text":"每周抽一天读生财的精华帖","x":-1630,"y":120,"width":250,"height":60,"color":"2"},
+		{"id":"ef4abfbf219f20a4","type":"text","text":"探索一下谷歌实验室","x":-1325,"y":-518,"width":250,"height":60},
+		{"id":"0cfb01fb4f53236b","type":"text","text":"制作第一个AI自媒体视频","x":-1325,"y":-680,"width":250,"height":60},
+		{"id":"b07dc8e492f81eca","type":"text","text":"拆解国内大V视频","x":-1600,"y":-682,"width":250,"height":60,"color":"2"},
+		{"id":"02270bf38c102e03","type":"text","text":"AI自媒体（小红书、推特、抖音）","x":-2020,"y":-682,"width":290,"height":60}
 	],
-	"edges": [
-		{
-			"id": "e8f40a1f69aadb18",
-			"fromNode": "6016720d13a0115b",
-			"fromSide": "left",
-			"toNode": "69e13ca0d27eb924",
-			"toSide": "right"
-		},
-		{
-			"id": "d0a9b4cba6d8ea5d",
-			"fromNode": "27360d7dbb5b502b",
-			"fromSide": "right",
-			"toNode": "06de7abf31f4fc08",
-			"toSide": "left",
-			"color": "5",
-			"label": "延展"
-		},
-		{
-			"id": "e88b38eb76d384b0",
-			"fromNode": "06de7abf31f4fc08",
-			"fromSide": "right",
-			"toNode": "68cd95e91860232f",
-			"toSide": "left",
-			"color": "4"
-		},
-		{
-			"id": "02f01cb60487cca2",
-			"fromNode": "b5f4bbec1b81d0a3",
-			"fromSide": "left",
-			"toNode": "ff8dd315872806f2",
-			"toSide": "right"
-		},
-		{
-			"id": "12b43db22c610458",
-			"fromNode": "27360d7dbb5b502b",
-			"fromSide": "left",
-			"toNode": "209d8fd7a7777214",
-			"toSide": "right"
-		},
-		{
-			"id": "82126be0fa672d8f",
-			"fromNode": "0a8ab536e598faee",
-			"fromSide": "top",
-			"toNode": "ed0106b0e4818433",
-			"toSide": "bottom",
-			"color": "1"
-		},
-		{
-			"id": "bff4af0c324f6e2f",
-			"fromNode": "b5f4bbec1b81d0a3",
-			"fromSide": "bottom",
-			"toNode": "ed0106b0e4818433",
-			"toSide": "top"
-		},
-		{
-			"id": "37a7b6891807d317",
-			"fromNode": "0a8ab536e598faee",
-			"fromSide": "top",
-			"toNode": "80d8130b5e9eb9da",
-			"toSide": "left",
-			"color": "1"
-		},
-		{
-			"id": "b4eaad1155d6a490",
-			"fromNode": "b5f4bbec1b81d0a3",
-			"fromSide": "bottom",
-			"toNode": "80d8130b5e9eb9da",
-			"toSide": "top"
-		},
-		{
-			"id": "4fe54703d67730d3",
-			"fromNode": "b07dc8e492f81eca",
-			"fromSide": "left",
-			"toNode": "02270bf38c102e03",
-			"toSide": "right",
-			"color": "4",
-			"label": "长期"
-		},
-		{
-			"id": "745b44a5f893ce01",
-			"fromNode": "0a8ab536e598faee",
-			"fromSide": "right",
-			"toNode": "55a07957e6e22eec",
-			"toSide": "left",
-			"color": "4",
-			"label": "长期"
-		},
-		{
-			"id": "053050a47337c5f6",
-			"fromNode": "03b13d84a3415a84",
-			"fromSide": "bottom",
-			"toNode": "209d8fd7a7777214",
-			"toSide": "top"
-		},
-		{
-			"id": "1765daffed033eb0",
-			"fromNode": "209d8fd7a7777214",
-			"fromSide": "bottom",
-			"toNode": "ff8dd315872806f2",
-			"toSide": "top"
-		},
-		{
-			"id": "b8c2163a0eb76332",
-			"fromNode": "ff8dd315872806f2",
-			"fromSide": "bottom",
-			"toNode": "0a8ab536e598faee",
-			"toSide": "top"
-		},
-		{
-			"id": "dc7cf593e4def3ed",
-			"fromNode": "0a8ab536e598faee",
-			"fromSide": "bottom",
-			"toNode": "bdd6c5be02d764b0",
-			"toSide": "top"
-		},
-		{
-			"id": "e0b52855795d3c76",
-			"fromNode": "b07dc8e492f81eca",
-			"fromSide": "right",
-			"toNode": "0cfb01fb4f53236b",
-			"toSide": "left"
-		},
-		{
-			"id": "c3418c8ad3375fd6",
-			"fromNode": "b07dc8e492f81eca",
-			"fromSide": "bottom",
-			"toNode": "38caa63f19b2e559",
-			"toSide": "bottom"
-		},
-		{
-			"id": "96d1cd9698217e67",
-			"fromNode": "514990e3fad7df3f",
-			"fromSide": "top",
-			"toNode": "38caa63f19b2e559",
-			"toSide": "bottom"
-		},
-		{
-			"id": "35f6c96fd51be415",
-			"fromNode": "ff8dd315872806f2",
-			"fromSide": "left",
-			"toNode": "38caa63f19b2e559",
-			"toSide": "right"
-		},
-		{
-			"id": "b3f830dfaa784f68",
-			"fromNode": "bdd6c5be02d764b0",
-			"fromSide": "left",
-			"toNode": "38caa63f19b2e559",
-			"toSide": "bottom"
-		},
-		{
-			"id": "0b5d767d85c2709d",
-			"fromNode": "69469567e29248e2",
-			"fromSide": "right",
-			"toNode": "38caa63f19b2e559",
-			"toSide": "bottom"
-		},
-		{
-			"id": "143aefe9d1623696",
-			"fromNode": "6cf175f0fd41ab98",
-			"fromSide": "right",
-			"toNode": "38caa63f19b2e559",
-			"toSide": "bottom"
-		},
-		{
-			"id": "329c61e9dfe33f19",
-			"fromNode": "ef4abfbf219f20a4",
-			"fromSide": "bottom",
-			"toNode": "38caa63f19b2e559",
-			"toSide": "top"
-		},
-		{
-			"id": "bcde0fc2b42e07a1",
-			"fromNode": "209d8fd7a7777214",
-			"fromSide": "left",
-			"toNode": "38caa63f19b2e559",
-			"toSide": "right"
-		},
-		{
-			"id": "1e7445b14f1b37c8",
-			"fromNode": "38caa63f19b2e559",
-			"fromSide": "right",
-			"toNode": "0a8ab536e598faee",
-			"toSide": "left",
-			"color": "1"
-		},
-		{
-			"id": "74469dff8db8c2ca",
-			"fromNode": "69e13ca0d27eb924",
-			"fromSide": "bottom",
-			"toNode": "03b13d84a3415a84",
-			"toSide": "top"
-		}
+	"edges":[
+		{"id":"e8f40a1f69aadb18","fromNode":"6016720d13a0115b","fromSide":"left","toNode":"69e13ca0d27eb924","toSide":"right"},
+		{"id":"d0a9b4cba6d8ea5d","fromNode":"27360d7dbb5b502b","fromSide":"right","toNode":"06de7abf31f4fc08","toSide":"left","color":"5","label":"延展"},
+		{"id":"e88b38eb76d384b0","fromNode":"06de7abf31f4fc08","fromSide":"right","toNode":"68cd95e91860232f","toSide":"left","color":"4"},
+		{"id":"02f01cb60487cca2","fromNode":"b5f4bbec1b81d0a3","fromSide":"left","toNode":"ff8dd315872806f2","toSide":"right"},
+		{"id":"12b43db22c610458","fromNode":"27360d7dbb5b502b","fromSide":"left","toNode":"209d8fd7a7777214","toSide":"right"},
+		{"id":"82126be0fa672d8f","fromNode":"0a8ab536e598faee","fromSide":"top","toNode":"ed0106b0e4818433","toSide":"bottom","color":"1"},
+		{"id":"bff4af0c324f6e2f","fromNode":"b5f4bbec1b81d0a3","fromSide":"bottom","toNode":"ed0106b0e4818433","toSide":"top"},
+		{"id":"37a7b6891807d317","fromNode":"0a8ab536e598faee","fromSide":"top","toNode":"80d8130b5e9eb9da","toSide":"left","color":"1"},
+		{"id":"b4eaad1155d6a490","fromNode":"b5f4bbec1b81d0a3","fromSide":"bottom","toNode":"80d8130b5e9eb9da","toSide":"top"},
+		{"id":"4fe54703d67730d3","fromNode":"b07dc8e492f81eca","fromSide":"left","toNode":"02270bf38c102e03","toSide":"right","color":"4","label":"长期"},
+		{"id":"745b44a5f893ce01","fromNode":"0a8ab536e598faee","fromSide":"right","toNode":"55a07957e6e22eec","toSide":"left","color":"4","label":"长期"},
+		{"id":"053050a47337c5f6","fromNode":"03b13d84a3415a84","fromSide":"bottom","toNode":"209d8fd7a7777214","toSide":"top"},
+		{"id":"1765daffed033eb0","fromNode":"209d8fd7a7777214","fromSide":"bottom","toNode":"ff8dd315872806f2","toSide":"top"},
+		{"id":"b8c2163a0eb76332","fromNode":"ff8dd315872806f2","fromSide":"bottom","toNode":"0a8ab536e598faee","toSide":"top"},
+		{"id":"dc7cf593e4def3ed","fromNode":"0a8ab536e598faee","fromSide":"bottom","toNode":"bdd6c5be02d764b0","toSide":"top"},
+		{"id":"e0b52855795d3c76","fromNode":"b07dc8e492f81eca","fromSide":"right","toNode":"0cfb01fb4f53236b","toSide":"left"},
+		{"id":"c3418c8ad3375fd6","fromNode":"b07dc8e492f81eca","fromSide":"bottom","toNode":"38caa63f19b2e559","toSide":"bottom"},
+		{"id":"96d1cd9698217e67","fromNode":"514990e3fad7df3f","fromSide":"top","toNode":"38caa63f19b2e559","toSide":"bottom"},
+		{"id":"35f6c96fd51be415","fromNode":"ff8dd315872806f2","fromSide":"left","toNode":"38caa63f19b2e559","toSide":"right"},
+		{"id":"b3f830dfaa784f68","fromNode":"bdd6c5be02d764b0","fromSide":"left","toNode":"38caa63f19b2e559","toSide":"bottom"},
+		{"id":"0b5d767d85c2709d","fromNode":"69469567e29248e2","fromSide":"right","toNode":"38caa63f19b2e559","toSide":"bottom"},
+		{"id":"143aefe9d1623696","fromNode":"6cf175f0fd41ab98","fromSide":"right","toNode":"38caa63f19b2e559","toSide":"bottom"},
+		{"id":"329c61e9dfe33f19","fromNode":"ef4abfbf219f20a4","fromSide":"bottom","toNode":"38caa63f19b2e559","toSide":"top"},
+		{"id":"bcde0fc2b42e07a1","fromNode":"209d8fd7a7777214","fromSide":"left","toNode":"38caa63f19b2e559","toSide":"right"},
+		{"id":"1e7445b14f1b37c8","fromNode":"38caa63f19b2e559","fromSide":"right","toNode":"0a8ab536e598faee","toSide":"left","color":"1"},
+		{"id":"74469dff8db8c2ca","fromNode":"69e13ca0d27eb924","fromSide":"bottom","toNode":"03b13d84a3415a84","toSide":"top"}
 	]
 }
