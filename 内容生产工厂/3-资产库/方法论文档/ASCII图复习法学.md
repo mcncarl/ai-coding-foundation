@@ -1,1 +1,0 @@
-当我期末周用notebooklm复习民诉 发现了两个绝佳的prompt来加强记忆-- ASCII+关键时间

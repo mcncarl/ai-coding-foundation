@@ -1,3 +1,0 @@
-antigravity的agent manager才是最适合我这种零代码新手的工具之前一直没想到合适的应用场景，我切换其实和opencode 之前一直没想到合适的应用场景，我切换对话是在editor硬切的... 
-
-但是搜了一下grok，他给我说agent manager可以直接切，用了一下，真的好爽... 其实和opencode差不多，好处就是antigravity的模型牛逼啊 opencode依然也能导出antigravity的模型，但是我害怕有封号危险就没弄
